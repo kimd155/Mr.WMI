@@ -5,7 +5,7 @@
 
 A session-based, red-team–oriented WMI command console built for use in **authorized adversary simulations**, **purple team labs**, and **internal operator development**.
 
-This tool enables interactive remote command execution over WMI with a focus on:
+This tool enables interactive remote command execution over WMI (Based on Invoke-WmiMethod) with a focus on:
 
 - Per-session artifact control  
 - Operator-tagged session tracking  
@@ -48,7 +48,7 @@ The author is not responsible for misuse.
 ##  Usage
 
 ```powershell
-.\MRWmi.ps1
+.\MrWMI.ps1
 ```
 
 ---
