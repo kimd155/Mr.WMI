@@ -1,6 +1,7 @@
 <p align="center">
   <img src="logo.png" alt="Mr.WMI" width="auto" height="200"/><br><br>
-# Remote WMI Interactive Console
+
+  # Remote WMI Interactive Console
 
 A session-based, red-team–oriented WMI command console built for use in **authorized adversary simulations**, **purple team labs**, and **internal operator development**.
 
