@@ -48,7 +48,7 @@ The author is not responsible for misuse.
 ##  Usage
 
 ```powershell
-.\WMIConsole.ps1
+.\MRWmi.ps1
 ```
 
 ---
