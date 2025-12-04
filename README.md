@@ -3,7 +3,7 @@
 
   # MR.WMI - Remote WMI Interactive Console
 
-A session-based, red-team–oriented WMI command console built for use in **authorized adversary simulations**, **purple team labs**, and **internal operator development**.
+A session-based, red-team oriented WMI command console built for use in **authorized adversary simulations**, **purple team labs**, and **internal operator development**.
 
 This tool enables interactive remote command execution over WMI (Based on Invoke-WmiMethod) with a focus on:
 
